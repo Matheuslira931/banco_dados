@@ -1,3 +1,7 @@
+# banco_dados_1_atv2
+
+Segue os commits acima com a segunda atividade de DB 1
+
 # banco_dados_1_atv1
 
 ### Frist step (creat DB and tables)
